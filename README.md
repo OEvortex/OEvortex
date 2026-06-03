@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,100:00bcd4&height=200&section=header&text=OEvortex&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,100:00bcd4&height=200&section=header&text=Vortex&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
 <br>
@@ -13,9 +13,9 @@
     </td>
     <td width="70%" valign="top">
       <br>
-      <h2 align="left">Hey, I'm OEvortex 👋</h2>
+      <h2 align="left">Hey, I'm Vortex 👋</h2>
       <p align="left" style="font-size: 15px; line-height: 1.7;">
-        I build <b>emotionally intelligent, privacy-first AI</b> that puts users in control.
+        I build <b>Recurvisly intellgent, privacy-first AI</b> that puts users in control.
         <br><br>
         Founder at <a href="https://github.com/HelpingAI"><b>@HelpingAI</b></a> — crafting tools that bridge cutting-edge AI with everyday developers.
         <br><br>
